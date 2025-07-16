@@ -4,8 +4,6 @@ This project is about detecting fraudulent credit card transactions using machin
 
 I trained and compared multiple ML models — Logistic Regression, Random Forest, Decision Tree, and SVM — to find which one performs best. The results were evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
 
-A simple web interface (using Flask) is also created where you can enter transaction details and check whether it is fraud or not. This project helped me understand real-world ML problems, especially with imbalanced data.
-
 ## Dataset
 
 - Source: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
